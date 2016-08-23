@@ -1,0 +1,9 @@
+C:\Users\Davide\Dropbox\SOURCES\ExcelServices\ExcelServices\bin\Debug\ExcelServices.exe.config
+C:\Users\Davide\Dropbox\SOURCES\ExcelServices\ExcelServices\obj\Debug\ExcelServices.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Dropbox\SOURCES\ExcelServices\ExcelServices\obj\Debug\ExcelServices.Form1.resources
+C:\Users\Davide\Dropbox\SOURCES\ExcelServices\ExcelServices\obj\Debug\ExcelServices.Properties.Resources.resources
+C:\Users\Davide\Dropbox\SOURCES\ExcelServices\ExcelServices\obj\Debug\ExcelServices.csproj.GenerateResource.Cache
+C:\Users\Davide\Dropbox\SOURCES\ExcelServices\ExcelServices\bin\Debug\ExcelServices.exe
+C:\Users\Davide\Dropbox\SOURCES\ExcelServices\ExcelServices\bin\Debug\ExcelServices.pdb
+C:\Users\Davide\Dropbox\SOURCES\ExcelServices\ExcelServices\obj\Debug\ExcelServices.exe
+C:\Users\Davide\Dropbox\SOURCES\ExcelServices\ExcelServices\obj\Debug\ExcelServices.pdb
